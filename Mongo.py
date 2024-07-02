@@ -20,6 +20,27 @@ d= {
     "Surname": "Ansari"
 }
 
+d= {
+    "name":"Mohammad Farid",
+    "email":"Mrfad@123",
+    "Surname": "Ansari"
+}
+d= {
+    "name":"Mohammad Farid",
+    "email":"Mrfad@123",
+    "Surname": "Ansari"
+}d= {
+    "name":"Mohammad Farid",
+    "email":"Mrfad@123",
+    "Surname": "Ansari"
+}d= {
+    "name":"Mohammad Farid",
+    "email":"Mrfad@123",
+    "Surname": "Ansari"
+}
+
+
+
 db = client['Mongo']
 coll = db['test']
 coll.insert_one(d)
